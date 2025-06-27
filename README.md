@@ -4,6 +4,7 @@ A calculator with error handling prevents crashes and provides helpful feedback 
 This involves checks for invalid input, like non-numeric values or division by zero, and displays informative messages to the user instead of crashing. 
 
 Key aspects of error handling in a calculator:-
+
 1.Input Validation:
   - Check if the input is a valid number before attempting calculations.
   - Handle cases where the user enters text instead of numbers, or if the input is incomplete.
